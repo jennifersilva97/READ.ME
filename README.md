@@ -4,8 +4,15 @@
  
 ---------------------------
 
-![imagem01] (https://giphy.com/embed/6MWahPArixa6I)
+Atualmente atuo na área administrativa de uma empresa de tecnologia e isso me fez querer saber um pouco mais desse mundo totalmente novo pra mim.
 
 
+---------------------------
+## Formação Acadêmica 🎓
+---------------------------
 
-- 
+👩‍💻 Técnico em Full Stack - SENAI (cursando)
+☑️ Bacharelado em Comunicação Social - FMU
+☑️ Técnico em Administração - SENAI
+
+ 
