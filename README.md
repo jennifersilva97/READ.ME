@@ -8,8 +8,8 @@ Atualmente atuo na área administrativa de uma empresa de tecnologia e isso me f
 
 ## Formação Acadêmica 🎓
 
-👩‍💻 Técnico em Full Stack - SENAI (cursando)
-☑️ Bacharelado em Comunicação Social - FMU
-☑️ Técnico em Administração - SENAI
+-👩‍💻 Técnico em Full Stack - SENAI (cursando)
+-☑️ Bacharelado em Comunicação Social - FMU
+-☑️ Técnico em Administração - SENAI
 
  
